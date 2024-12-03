@@ -1,4 +1,4 @@
-# 💳 Horizon - Banking Platform
+# 💳 Horizon -- Banking Platform
 
 A financial SaaS platform built with Next.js that connects multiple bank accounts, displays transactions in real-time, facilitates secure fund transfers, and helps users manage their finances effectively.
 
